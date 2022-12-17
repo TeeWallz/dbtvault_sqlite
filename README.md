@@ -33,17 +33,17 @@ Include this package in your `packages.yml` file. Soon this will support teh `pa
 
 | Macro/Template | Snowflake                                     |
 |----------------|-----------------------------------------------|
-| hash           | :fontawesome-solid-circle-check:{ .required } |
-| stage          | :fontawesome-solid-circle-check:{ .required } |
-| hub            | :fontawesome-solid-circle-check:{ .required } |
-| link           | :fontawesome-solid-circle-check:{ .required } |
-| sat            | :fontawesome-solid-circle-check:{ .required } |
-| t_link         | :fontawesome-solid-circle-check:{ .not-required } |
-| eff_sat        | :fontawesome-solid-circle-check:{ .not-required } |
-| ma_sat         | :fontawesome-solid-circle-check:{ .not-required } |
-| xts            | :fontawesome-solid-circle-check:{ .not-required } |
-| pit            | :fontawesome-solid-circle-check:{ .required } |
-| bridge         | :fontawesome-solid-circle-check:{ .not-required } |
+| hash           | :heavy_check_mark:                            |
+| stage          | :heavy_check_mark:                            |
+| hub            | :heavy_check_mark:                            |
+| link           | :heavy_check_mark:                            |
+| sat            | :heavy_check_mark:                            |
+| t_link         | :x:                                           |
+| eff_sat        | :x:                                           |
+| ma_sat         | :x:                                           |
+| xts            | :x:                                           |
+| pit            | :heavy_check_mark:                            |
+| bridge         | ::x:                                          |
 
 
 # New Feature because I use it a lot
