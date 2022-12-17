@@ -43,7 +43,7 @@ Include this package in your `packages.yml` file. Soon this will support teh `pa
 | ma_sat         | :x:                                           |
 | xts            | :x:                                           |
 | pit            | :heavy_check_mark:                            |
-| bridge         | ::x:                                          |
+| bridge         | :x:                                           |
 
 
 # New Feature because I use it a lot
